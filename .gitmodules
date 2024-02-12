@@ -1,0 +1,6 @@
+[submodule "wearOS-athlete-app"]
+	path = wearOS-athlete-app
+	url = https://github.com/Tomawk/TrainAround-Client
+[submodule "android-trainer-app"]
+	path = android-trainer-app
+	url = https://github.com/Ruggero1912/TrainerApp
