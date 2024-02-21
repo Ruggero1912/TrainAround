@@ -11,7 +11,10 @@ We implemented the service in a way that does not need internet connection for t
 ## Hardware Architecture
 
 
-<img src="_images/ticwatch-and-galaxy-A.jpg" alt="Real Setup" style="width:200px;height:300px;">
+<div style="text-align:center;">
+    <img src="_images/ticwatch-and-galaxy-A.jpg" alt="Real Setup" style="width:600px;height:auto;">
+</div>
+
 The athletes should wear a WearOS watch with the TrainAround-client app installed and running, while the trainer can use an android phone or tablet to control the training status of the athletes in real-time.
 
 ## Gathered data
@@ -34,9 +37,15 @@ Our focus was also on the network to connect the smartwatches to the Coach's Sma
 
 Part of our work involves the choice of this solution comparing it to other alternatives in terms of Compatibility, Versatibility, Simplicity and Energy Efficiency.
 
-![network architecture](_images/startopology_network.png)
+<div style="text-align:center;">
+    <img src="_images/startopology_network.png" alt="Network Architecture" style="width:600px;height:auto;">
+</div>
+
 
 ## User interface
 
-![user interface](_images/user_interface.png)
+<div style="text-align:center;">
+    <img src="_images/user_interface.png" alt="User Interface" style="width:300px;height:auto;">
+</div>
+
 
