@@ -11,7 +11,7 @@ We implemented the service in a way that does not need internet connection for t
 ## Hardware Architecture
 
 
-![real setup](_images/ticwatch-and-galaxy-A.jpg)
+<img src="_images/ticwatch-and-galaxy-A.jpg" alt="Real Setup" style="width:200px;height:300px;">
 The athletes should wear a WearOS watch with the TrainAround-client app installed and running, while the trainer can use an android phone or tablet to control the training status of the athletes in real-time.
 
 ## Gathered data
