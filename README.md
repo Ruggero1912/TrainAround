@@ -12,7 +12,7 @@ We implemented the service in a way that does not need internet connection for t
 
 
 <div style="text-align:center;">
-    <img src="_images/ticwatch-and-galaxy-A.jpg" alt="Real Setup" style="width:600px;height:auto;">
+    <img src="_images/ticwatch-and-galaxy-A.jpg" alt="Real Setup" style="width:400px;height:auto;">
 </div>
 
 The athletes should wear a WearOS watch with the TrainAround-client app installed and running, while the trainer can use an android phone or tablet to control the training status of the athletes in real-time.
@@ -45,7 +45,7 @@ Part of our work involves the choice of this solution comparing it to other alte
 ## User interface
 
 <div style="text-align:center;">
-    <img src="_images/user_interface.png" alt="User Interface" style="width:300px;height:auto;">
+    <img src="_images/user_interface.png" alt="User Interface" style="width:600px;height:auto;">
 </div>
 
 
